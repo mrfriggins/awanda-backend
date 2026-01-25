@@ -1,0 +1,1 @@
+export const PAYPAL_BASE = Process.env.PAYPAL_API_BASE || "https://api-m.sandbox.paypal.com";
